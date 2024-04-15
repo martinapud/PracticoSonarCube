@@ -6,6 +6,7 @@
 - Download [skaffold](https://github.com/GoogleContainerTools/skaffold/releases) cli
 - helm
 - kubectl
+- kubetl
 
 ### Install the Keda controller
 
